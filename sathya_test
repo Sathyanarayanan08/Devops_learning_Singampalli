@@ -1,0 +1,2 @@
+select * from DB2
+where location= "Chennai"
